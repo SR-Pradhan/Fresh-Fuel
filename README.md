@@ -8,7 +8,8 @@
 
 - 🥈 Secured **2nd position** in the **1st Paycheck Challenge**
 - 💰 Won a **₹3,000 cash prize**
-- 📜 Certificate awarded (see below)
+- 🧾 Certificate awarded *(see below)*
+- 📚 Built in **2nd semester** as part of the **Sunstone curriculum challenge project**
 
 ---
 
@@ -29,17 +30,17 @@
 
 ---
 
-## 🖼️ Snapshots
+## 📄 Design & Documentation
 
-| Mockup Preview | Wireframe Example |
-|----------------|------------------|
-| [View Mockup](assets/mockups/mockup1.png) | [View Wireframe](assets/wireframes/wireframe1.png) |
+| Wireframes & Mockups |
+|----------------------|
+| [View PDF](assets/wireframe-mockups/Wireframes%20%26%20Mockups.pdf) |
 
 ---
 
 ## 🧾 Certificate
 
-[View Certificate](assets/certificate/certificate.png)
+![Certificate](assets/certificate/certificate.jpeg)
 
 ---
 
@@ -57,12 +58,4 @@
 - ✅ All documentation, screenshots, and design materials are preserved in this repo.
 
 ---
-
-## 🙌 Connect With Me
-**Sruti Ranjan Pradhan**  
-📧 [pradhansr2003@gmail.com]  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-
-
-
 
