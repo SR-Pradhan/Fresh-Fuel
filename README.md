@@ -9,7 +9,7 @@
 - 🥈 Secured **2nd position** in the **1st Paycheck Challenge**
 - 💰 Won a **₹3,000 cash prize**
 - 🧾 Certificate awarded *(see below)*
-- 📚 Built in **2nd semester** as part of the **Sunstone curriculum challenge prject**
+- 📚 Built in **2nd semester** as part of the **Sunstone curriculum challenge project**
 
 ---
 
